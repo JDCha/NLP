@@ -3,3 +3,10 @@
 code for Natural Language Processing. (especially Korean.)
 
 only using **existing library**, not developing any existing algorithm.
+
+
+---
+
+## 1. simple_postag.ipynb
+
+simple code for using Korean POS tagger (KoNLPy)
