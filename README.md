@@ -30,3 +30,7 @@ Labeling user.
 ## 4. select_feature.ipynb
 
 Using pos analyzed data, select feature and make BagofWords. Then, Classify.
+
+## 5. user_tf_idf.ipynb
+
+Calculate tf-idf
