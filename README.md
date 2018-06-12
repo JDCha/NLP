@@ -34,3 +34,11 @@ Using pos analyzed data, select feature and make BagofWords. Then, Classify.
 ## 5. user_tf_idf.ipynb
 
 Calculate tf-idf
+
+## 6. draw_graph.ipynb
+
+plot scatter graph and box chart.
+
+## 7. document-clustering.ipynb
+
+do dbscan, sort, join
