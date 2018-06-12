@@ -42,3 +42,7 @@ plot scatter graph and box chart.
 ## 7. document-clustering.ipynb
 
 do dbscan, sort, join
+
+## 8. somoclu.ipynb
+
+do Self-Organizing Maps
